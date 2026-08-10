@@ -179,3 +179,5 @@ The dataset contains physicochemical measurements and sensory quality ratings fo
 ## Limitations
 
 Wine quality is subjective and the dataset is relatively small. The model should be treated as an educational ML system rather than a laboratory-grade wine assessment tool.
+
+Intern ID : CITS8345
