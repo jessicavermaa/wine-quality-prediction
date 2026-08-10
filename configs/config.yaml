@@ -1,0 +1,11 @@
+random_state: 42
+test_size: 0.20
+cv_folds: 5
+
+paths:
+  raw_data: data/raw/winequality-red.csv
+  processed_data: data/processed/wine_processed.csv
+  model: models/wine_quality_best_model.joblib
+  results: reports/model_results.csv
+  cv_results: reports/cross_validation_results.csv
+  figures: reports/figures
